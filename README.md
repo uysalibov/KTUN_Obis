@@ -61,7 +61,7 @@ Paket uyumsuzluklarını önlemek için sanal ortam oluşturmalıyız.
    </a>
    <br />
    <a href="https://support.discord.com/hc/tr/articles/206346498-Kullanıcı-Sunucu-Mesaj-ID-sini-Nerden-Bulurum-">
-    Discord kullanıcı ID'si nereden bulacağını bilmiyorsan tıkla.
+    Discord kullanıcı ID'sini nereden bulacağını bilmiyorsan tıkla.
    </a>
 3. Gerekli kütüphaneleri kurun.
   ```sh
