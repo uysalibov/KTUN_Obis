@@ -19,7 +19,7 @@
     <img src="src/webhook.png" alt="Logo">
   </a>
   <a href="https://github.com/uysalibov/KTUN_Obis">
-    <img src="src/discord_message.png" alt="Logo">
+    <img src="src/discord_message.png" alt="Logo" title='Tek iyi dersim bu :('>
   </a>
 </p>
 
