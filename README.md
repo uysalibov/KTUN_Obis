@@ -10,7 +10,7 @@
   <h3 align="center">KTUN Öğrenci Bilgi Sistemi</h3>
 
   <p align="center">
-    KTUN Öğrenci Bilgi Sistemine selenium kullanarak girip setttings.py dosyasında verdiğiniz bilgeri doldurup ardından opencv kullanarak captcha kodunu çözen ve not bilgilerine giriş yapıp not bilgilerinizi kaydeden uygulama. Her 15 dakikada bir tekrar notları çeken sistem size değişen not olduğu zaman Discord Webhooklarını kullanarak size etiketler ve size değişen notları gönderir.
+    KTUN Öğrenci Bilgi Sistemine selenium kullanarak girip setttings.py dosyasında verdiğiniz bilgileri doldurup ardından opencv kullanarak captcha kodunu çözen ve not bilgilerine giriş yapıp not bilgilerinizi kaydeden uygulama. Her 15 dakikada bir tekrar notları çeken sistem size değişen not olduğu zaman Discord Webhooklarını kullanarak size etiketler ve size değişen notları gönderir.
   </p>
   <a href="https://github.com/uysalibov/KTUN_Obis">
     <img src="src/webhook_create.png" alt="Logo">
